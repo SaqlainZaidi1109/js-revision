@@ -37,7 +37,7 @@ const heros = ["Syed","Mohammad","Saqlain"]
 // Objects:
 {
     name:"Saqlain",
-    age:20
+    // age:20
 }; //can be stored in a variable
 
 let myObj = {
